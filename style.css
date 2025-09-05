@@ -1,0 +1,82 @@
+/*************** Reset *********************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/*************font****************/
+h1 {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-style: italic;
+  font-weight: 600px;
+  font-size: 4.5rem;
+  color: rgb(51, 51, 134);
+}
+
+h2 {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 700px;
+  font-style: italic;
+  font-size: 2rem;
+  color: rgb(104, 104, 185);
+}
+
+p {
+  font-family: "Palanquin", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 1rem;
+}
+
+dd {
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+dl {
+  font-family: "Palanquin", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+/***********farver********/
+.color1 {
+  color: aliceblue;
+}
+
+/************style af tekst*************/
+
+p {
+  font-size: 1.2rem;
+  margin-block: 0.8rem;
+  font-family: "Gudea", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  text-wrap: pretty;
+}
+
+/*************andet***********/
+main {
+  padding: 10px;
+}
+
+footer {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  text-decoration: underline;
+  background-color: rgb(176, 176, 227);
+  padding: 20px;
+}
